@@ -8,6 +8,6 @@ Swiper 플러그인을 적용하여 배너와 차트 탭, 이미지 슬라이드
 기획/디자인/코딩 : 개인작업100%
 작업기간 : 5일
 
-바로가기! ➡ https://seoeuncho.github.io/Megabox_clone/
+바로가기! ➡ https://seoeuncho.github.io/MegaboxSite/
 (반응형 사이트입니다.<br>
 윈도우 창 너비를 줄이고 늘려가며 봐주세요🙏)<br><br>
