@@ -6,7 +6,7 @@
 <br>
 
 
-- 작업 기간 : 5일
+- 작업 기간 : 3일
 - Web Demo : [HTML-Site](https://seoeuncho.github.io/MegaboxSite/)
   <br>반응형 사이트입니다. 윈도우 창 너비를 줄이고 늘려가며 봐주세요🙏
 <br>
