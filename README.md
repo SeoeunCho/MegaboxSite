@@ -1,7 +1,7 @@
 # MegaboxSite
 ![image](https://github.com/SeoeunCho/MegaboxSite/blob/main/assets/img/screenshot/megabox_web01.png?raw=true)<br>
 
-📽️ '메가박스' 반응형 사이트입니다.<br>
+🎞️ '메가박스' 반응형 사이트입니다.<br>
 : 웹표준을 준수하며 모든 기기에 유연하게 대응하는 반응형 사이트입니다. Swiper 플러그인을 적용하여 배너와 차트 탭, 이미지 슬라이드, 동영상 등 다양하면서도 편리한 기능을 담은 기업형 웹사이트로 작업했습니다.<br>
 <br>
 
